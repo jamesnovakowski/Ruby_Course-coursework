@@ -1,0 +1,8 @@
+Green Bay Packers 7 Patriots 7
+Dallas Cowboys 13 Miami Dolphins 3
+Dallas Cowboys 12 Patriots 26
+Green Bay Packers 3 Patriots 3
+Miami Dolphins 7 NY Giants 3
+NY Giants 2 Philadelphia Eagles 22
+Philadelphia Eagles 17 Patriots 12
+Green Bay Packers 12 Philadelphia Eagles 12
