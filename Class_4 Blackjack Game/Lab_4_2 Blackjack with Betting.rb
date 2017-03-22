@@ -1,10 +1,18 @@
+"""
+The following script was developed for an introductory ruby course.
+It implements basic BlackJack rules in a text-based game, and permits 
+the user to bet on each round of play as it is played. 
+
+The game terminates when the user runs out of money, or chooses to exit 
+the game at the end of a round of play.
+"""
+
 
 class BlackJack
 	
 	def initialize()
 		#initialize deck
 		@deck_1 = Deck.new
-
 		#initialize player
 		@player_1 = Player.new
 
